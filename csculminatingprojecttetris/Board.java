@@ -91,8 +91,8 @@ public class Board extends JPanel implements KeyListener, MouseListener, MouseMo
     
     public Board() {
 
-        pause = ImageLoader.loadImage("/pause.png");
-        refresh = ImageLoader.loadImage("/refresh.png");
+        pause = ImageLoader.loadImage("/Users/techmengg/VSCode Projects/tmscs-tetris-project/images/Pause.png");
+        refresh = ImageLoader.loadImage("/Users/techmengg/VSCode Projects/tmscs-tetris-project/images/refresh.png");
 
         mouseX = 0;
         mouseY = 0;

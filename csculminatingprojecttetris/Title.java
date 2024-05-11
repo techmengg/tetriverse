@@ -31,7 +31,7 @@ public class Title extends JPanel implements KeyListener {
 	
 	//The Title class has a constructor that takes a WindowGame object as a parameter.
 	public Title(WindowGame window){
-                instructions = ImageLoader.loadImage("/arrow.png");
+                instructions = ImageLoader.loadImage("/Users/techmengg/VSCode Projects/tmscs-tetris-project/images/arrow.png");
 		timer = new Timer(1000/60, new ActionListener(){
 
 			@Override
