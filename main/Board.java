@@ -1,6 +1,6 @@
 package main;
+
 /**
- *
  * @author techmengg
  */
 
@@ -229,7 +229,7 @@ public class Board extends JPanel implements KeyListener, MouseListener, MouseMo
 
         // Color of the Grid Line on Board
         
-        g.setColor(Color.RED);
+        g.setColor(Color.WHITE);
 
         for (int i = 0; i <= boardHeight; i++) {
             g.drawLine(0, i * blockSize, boardWidth * blockSize, i * blockSize);
