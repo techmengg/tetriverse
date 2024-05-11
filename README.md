@@ -1,4 +1,4 @@
-# Tetris Game
+# Tetris Game 🎮
 
 ## Overview
 
