@@ -4,7 +4,7 @@
 
 This project is a Java implementation of the classic Tetris game. Tetris is a tile-matching puzzle video game where players manipulate falling tetrominoes (geometric shapes composed of four square blocks) to create complete horizontal lines without gaps. When a line is completed, it disappears, and any blocks above it fall to fill the space. The game ends if the stack of blocks reaches the top of the playing field.
 
-## 🕹Mechanics
+## Mechanics
 
 - **Shapes**: The game includes seven different tetromino shapes: I, T, L, J, S, Z, and O.
 - **Movement**: Players can move the falling tetromino left or right, rotate it clockwise, or make it fall faster.
