@@ -1,17 +1,17 @@
-# 🎮 Tetris Game 
+# Tetris Game 
 
-## 📝 Overview
+## Overview
 
 This project is a Java implementation of the classic Tetris game. Tetris is a tile-matching puzzle video game where players manipulate falling tetrominoes (geometric shapes composed of four square blocks) to create complete horizontal lines without gaps. When a line is completed, it disappears, and any blocks above it fall to fill the space. The game ends if the stack of blocks reaches the top of the playing field.
 
-## 🕹️ Mechanics
+## 🕹Mechanics
 
 - **Shapes**: The game includes seven different tetromino shapes: I, T, L, J, S, Z, and O.
 - **Movement**: Players can move the falling tetromino left or right, rotate it clockwise, or make it fall faster.
 - **Line Clearing**: When a horizontal line is completely filled with blocks, it disappears, and any blocks above it fall down to fill the space.
 - **Scoring**: Players earn points for each line cleared. The score increases as more lines are cleared simultaneously.
 
-## 🎯 How to Play
+## How to Play
 
 1. **Controls**:
    - Use the arrow keys to move the falling tetromino left, right, or down.
@@ -23,14 +23,14 @@ This project is a Java implementation of the classic Tetris game. Tetris is a ti
 3. **Game Over**:
    - The game ends when the stack of blocks reaches the top of the playing field and no new tetromino can be placed.
 
-## 🚀 Features
+## Features
 
 - **Pause**: Press the "Pause" button to pause the game at any time.
 - **Restart**: Press the "Restart" button to start a new game.
 - **Next Shape Preview**: A preview of the next tetromino shape is displayed on the side of the game board.
 - **Score Display**: The current score is displayed on the screen, indicating the number of lines cleared.
 
-## 🔧 Installation
+## Installation
 
 To run the game locally, follow these steps:
 
