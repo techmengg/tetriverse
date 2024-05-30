@@ -1,4 +1,4 @@
-# Tetris Game 
+# Tetriverse (Tetris Game)
 
 ## Overview
 
