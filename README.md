@@ -1,5 +1,9 @@
 # Tetriverse (Tetris Game)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 ## Overview
 
 This project is a Java implementation of the classic Tetris game. Tetris is a tile-matching puzzle video game where players manipulate falling tetrominoes (geometric shapes composed of four square blocks) to create complete horizontal lines without gaps. When a line is completed, it disappears, and any blocks above it fall to fill the space. The game ends if the stack of blocks reaches the top of the playing field.
